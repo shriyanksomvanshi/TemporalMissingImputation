@@ -10,8 +10,12 @@ to handle missing data and improve the overall understanding and management of t
 This repo contains important papers related to the `Temporal Missing Data imputation`
 
 
-![missing data imputation-git](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/38817af5-df60-4630-b17c-06ba9e2f46a9) ![missing data imputation-git2](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/8b3604c4-5d75-4048-a205-f356a9f5f085)
+![missing data imputation-git](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/38817af5-df60-4630-b17c-06ba9e2f46a9) 
+![missing data imputation-git2](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/8b3604c4-5d75-4048-a205-f356a9f5f085)
+
+
 **Missing Data Imputation👆**
+
 
 ## List of Papers
 
