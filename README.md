@@ -19,8 +19,10 @@ This repo contains important papers related to the `Temporal Missing Data imputa
 
 ## List of Papers
 
+[Note" ❤️: Noteworthy; 🚩: Non-peer reviewed (use with caution)]
+
 - Asadi-2019-**A convolution recurrent autoencoder for spatio-temporal missing data imputation** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Asadi-2019-A%20convolution%20recurrent%20autoencoder%20for%20spatio-temporal%20missing%20data%20imputation.pdf) 
-- Bogaerts-2020-**A graph CNN-LSTM NN for short and long-term traffic forecasting** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Bogaerts--2020-A%20graph%20CNN-LSTM%20NN%20for%20short%20and%20long-term%20traffic%20forecasting.pdf) 
+- Bogaerts-2020-**A graph CNN-LSTM NN for short and long-term traffic forecasting** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Bogaerts--2020-A%20graph%20CNN-LSTM%20NN%20for%20short%20and%20long-term%20traffic%20forecasting.pdf) ❤️
 - Chan-2021-**A neural network approach for traffic prediction and routing with missing data imputation for intelligent transportation system** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Chan-2021-A%20neural%20network%20approach%20for%20traffic%20prediction%20and%20routing%20with%20missing%20data%20imputation%20for%20intelligent%20transportation%20system.pdf)
 - Chan-2023-**Missing Traffic Data Imputation for Artificial Intelligence in Intelligent Transportation Systems**  [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Chan-2023-Missing%20Traffic%20Data%20Imputation%20for%20Artificial%20Intelligence%20in%20Intelligent%20Transportation%20Systems.pdf)
 - Chen-2022-**Towards missing traffic data imputation using attention-based temporal convolutional networks** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Chen-2022-Towards%20missing%20traffic%20data%20imputation%20using%20attention-based%20temporal%20convolutional%20networks.pdf)
