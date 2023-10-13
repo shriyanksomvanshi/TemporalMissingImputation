@@ -19,8 +19,8 @@ This repo contains important papers related to the `Temporal Missing Data imputa
 
 ## List of Papers
 
-- Asadi-2019-A convolution recurrent autoencoder for spatio-temporal missing data imputation
-- Bogaerts--2020-A graph CNN-LSTM NN for short and long-term traffic forecasting
+- Asadi-2019-A convolution recurrent autoencoder for spatio-temporal missing data imputation [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Asadi-2019-A%20convolution%20recurrent%20autoencoder%20for%20spatio-temporal%20missing%20data%20imputation.pdf) 
+- Bogaerts--2020-A graph CNN-LSTM NN for short and long-term traffic forecasting [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Bogaerts--2020-A%20graph%20CNN-LSTM%20NN%20for%20short%20and%20long-term%20traffic%20forecasting.pdf) 
 - Chan-2021-A neural network approach for traffic prediction and routing with missing data imputation for intelligent transportation system
 - Chan-2023-Missing Traffic Data Imputation for Artificial Intelligence in Intelligent Transportation Systems
 - Chen-2022-Towards missing traffic data imputation using attention-based temporal convolutional networks
